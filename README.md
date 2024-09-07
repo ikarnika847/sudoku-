@@ -1,2 +1,2 @@
-# sudoku-
-this is a sudoku in c++
+# sudoku
+this is a sudoku in c++.
